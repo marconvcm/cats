@@ -1,12 +1,12 @@
 
-# wine
+# wine - xinxila
  tiger
-# stout
+# stout - rainha
  preta
-# helles
-vermelha
-# red
+# helles - princesa
+vermelha 
+# red - salame
 vermelho
-# sakê
+# sakê - sunshine
 branco e preto
 
