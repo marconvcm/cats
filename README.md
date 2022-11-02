@@ -1,12 +1,11 @@
 
 # wine - xinxila
- tiger
+ tiger - 1 ano
 ## stout - rainha
- preta
+ preta - 2 anos
 ## helles - princesa
-vermelha 
+vermelha - 1 ano
 ## red - salame
-vermelho
+vermelho - 1 ano
 ## sakê - sunshine
-branco e preto
-
+branco e preto - 3 anos
